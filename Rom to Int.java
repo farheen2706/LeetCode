@@ -38,7 +38,7 @@ int value(char r)
       } 
       else
       { 
-        total = total + s1; 
+        total = total + ss1; 
       } 
     } 
     return total; 
