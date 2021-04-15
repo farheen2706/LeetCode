@@ -1,4 +1,4 @@
-class Solution {
+class insertposition {
     public int searchInsert(int[] nums, int target) {
         int found=0,target2=nums[nums.length-1];
         if(target>target2)
